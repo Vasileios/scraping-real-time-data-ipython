@@ -5,7 +5,7 @@ watching the number of flights on your emacs:
 
 This experiment tested on python 2.7 and emacs - ipython notebook (ein).
 
-For ipython notebook installation see this webpage ipython.
+For ipython notebook installation see this repo [[https://github.com/Vasileios/ipython][ipython]].
 
 To run this example you need to install some external modes
 
